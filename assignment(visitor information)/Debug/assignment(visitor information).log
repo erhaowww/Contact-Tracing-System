@@ -1,0 +1,135 @@
+﻿  assignment y1s3.c
+C:\Users\user\Downloads\assignment y1s3.c(317,8): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\user\Downloads\assignment y1s3.c(320,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(347,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(386,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(396,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(506,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(700,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(730,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(770,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(782,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(841,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(869,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(907,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(917,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(607,7): warning C4101: 'venue': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(1035,30): warning C4101: 'num': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(1289,425): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\user\Downloads\assignment y1s3.c(1289,425): message : placeholders and their parameters expect 15 variadic arguments, but 16 were provided
+C:\Users\user\Downloads\assignment y1s3.c(1646,11): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[20]'
+C:\Users\user\Downloads\assignment y1s3.c(1647,35): warning C4133: 'function': incompatible types - from 'int [20]' to 'char *'
+C:\Users\user\Downloads\assignment y1s3.c(1650,51): warning C4133: 'function': incompatible types - from 'int [20]' to 'const char *'
+C:\Users\user\Downloads\assignment y1s3.c(1887,11): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[20]'
+C:\Users\user\Downloads\assignment y1s3.c(1888,35): warning C4133: 'function': incompatible types - from 'int [20]' to 'char *'
+C:\Users\user\Downloads\assignment y1s3.c(1891,21): warning C4133: 'function': incompatible types - from 'int [20]' to 'const char *'
+C:\Users\user\Downloads\assignment y1s3.c(2011,11): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[20]'
+C:\Users\user\Downloads\assignment y1s3.c(2012,35): warning C4133: 'function': incompatible types - from 'int [20]' to 'char *'
+C:\Users\user\Downloads\assignment y1s3.c(2015,21): warning C4133: 'function': incompatible types - from 'int [20]' to 'const char *'
+C:\Users\user\Downloads\assignment y1s3.c(2218,24): warning C4020: 'change': too many actual parameters
+C:\Users\user\Downloads\assignment y1s3.c(2222,23): warning C4020: 'change': too many actual parameters
+C:\Users\user\Downloads\assignment y1s3.c(2226,22): warning C4020: 'change': too many actual parameters
+C:\Users\user\Downloads\assignment y1s3.c(2230,21): warning C4020: 'change': too many actual parameters
+C:\Users\user\Downloads\assignment y1s3.c(2234,20): warning C4020: 'change': too many actual parameters
+C:\Users\user\Downloads\assignment y1s3.c(2239,19): warning C4020: 'change': too many actual parameters
+C:\Users\user\Downloads\assignment y1s3.c(2243,18): warning C4020: 'change': too many actual parameters
+C:\Users\user\Downloads\assignment y1s3.c(2292,61): warning C4029: declared formal parameter list different from definition
+C:\Users\user\Downloads\assignment y1s3.c(2405,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2408,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2428,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2472,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2488,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2491,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2540,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2577,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2586,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2589,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2683,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2686,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2734,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2792,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2835,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2838,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2641,33): warning C4101: 'checker': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(3058,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3061,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3085,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3135,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3154,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3157,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3236,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3260,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3263,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3285,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3297,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3300,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3321,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3365,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3381,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3384,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3437,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3458,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3461,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3481,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(2954,14): warning C4101: 'name': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(2954,7): warning C4101: 'id': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(2953,54): warning C4101: 'number': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(3580,48): warning C4101: 'number': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(3580,40): warning C4101: 'option': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(3726,26): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\user\Downloads\assignment y1s3.c(3726,26): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\user\Downloads\assignment y1s3.c(3695,25): warning C4101: 'choice': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(3696,7): warning C4101: 'yesNo': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(3806,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3809,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3786,7): warning C4101: 'option': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(3859,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(3862,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(4042,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(4101,31): warning C4098: 'addVisitAndExitRecords': 'void' function returning a value
+C:\Users\user\Downloads\assignment y1s3.c(4138,31): warning C4098: 'displayVisitAndExitRecords': 'void' function returning a value
+C:\Users\user\Downloads\assignment y1s3.c(4112,7): warning C4101: 'choice': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4110,7): warning C4101: 'venueId': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4110,20): warning C4101: 'name': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4108,18): warning C4101: 'year': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4108,32): warning C4101: 'enterm': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4110,30): warning C4101: 'ic': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4108,47): warning C4101: 'exitm': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4108,11): warning C4101: 'month': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4108,6): warning C4101: 'day': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4109,6): warning C4101: 'selection': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4111,9): warning C4101: 'temp': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4105,16): warning C4101: 't': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4110,38): warning C4101: 'num': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4108,40): warning C4101: 'exith': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4108,24): warning C4101: 'enterh': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4150,7): warning C4101: 'choice': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4148,7): warning C4101: 'venueId': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4148,20): warning C4101: 'name': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4146,18): warning C4101: 'year': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4146,32): warning C4101: 'enterm': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4148,30): warning C4101: 'ic': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4146,47): warning C4101: 'exitm': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4146,11): warning C4101: 'month': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4146,6): warning C4101: 'day': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4147,6): warning C4101: 'selection': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4149,9): warning C4101: 'temp': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4143,16): warning C4101: 't': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4148,38): warning C4101: 'num': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4146,40): warning C4101: 'exith': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4146,24): warning C4101: 'enterh': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4275,31): warning C4098: 'deleteVisitAndExitRecords': 'void' function returning a value
+C:\Users\user\Downloads\assignment y1s3.c(4453,31): warning C4098: 'searchVisitAndExitRecords': 'void' function returning a value
+C:\Users\user\Downloads\assignment y1s3.c(4280,14): warning C4101: 'recordID': unreferenced local variable
+C:\Users\user\Downloads\assignment y1s3.c(4548,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(4634,31): warning C4098: 'modifyVisitAndExitRecords': 'void' function returning a value
+C:\Users\user\Downloads\assignment y1s3.c(4730,31): warning C4098: 'showReports': 'void' function returning a value
+C:\Users\user\Downloads\assignment y1s3.c(4857,11): warning C4102: 'activeTime': unreferenced label
+C:\Users\user\Downloads\assignment y1s3.c(4868,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(4878,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(4888,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(4901,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(4915,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\assignment y1s3.c(5279,14): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\user\Downloads\assignment y1s3.c(5281,27): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  assignment(visitor information).vcxproj -> C:\Users\user\Documents\sem3 practical programming(asnwer)\assignment(visitor information)\Debug\assignment(visitor information).exe
